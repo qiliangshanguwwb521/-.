@@ -1,0 +1,181 @@
+<！DOCTYPE html>
+< html >
+< head >
+  < meta  charset = “ utf-8 ” >
+  
+  < title > Hello World | Hexo </ title >
+  < 元 名称 = “视口” 内容 = “宽度=设备宽度，初始规模= 1，最大规模= 1 ” >
+  < meta  name = “ description ”  content = “欢迎来到Hexo！这是您的第一篇文章，查看文档了解更多信息如果您在使用Hexo时遇到任何问题，您可以在故障排除中找到答案，或者您可以问我GitHub快速“ >
+< meta  property = “ og：type ”  content = “ article ” >
+< meta  property = “ og：title ”  content = “ Hello World ” >
+< 元 属性 = “ OG：URL ” 内容 = “ http://yoursite.com/2017/10/24/hello-world/index.html ” >
+< meta  property = “ og：site_name ”  content = “ Hexo ” >
+< meta  property = “ og：description ”  content = “欢迎来到Hexo！这是您的第一篇文章检查文档了解更多信息如果您在使用Hexo时遇到任何问题，您可以在故障排除中找到答案，或者可以问我在GitHub上快速“ >
+< meta  property = “ og：updated_time ”  content = “ 2017-10-24T09：59：57.363Z ” >
+< meta  name = “ twitter：card ”  content = “ summary ” >
+< meta  name = “ twitter：title ”  content = “ Hello World ” >
+< meta  name = “ twitter：description ”  content = “欢迎来到Hexo！这是您的第一篇文章，查看文档以获取更多信息如果您在使用Hexo时遇到任何问题，您可以在故障排除中找到答案，或者询问我在GitHub上快速“ >
+  
+    < link  rel = “ alternate ”  href = “/ atom.xml ”  title = “ Hexo ”  type = “ application / atom + xml ” >
+  
+  
+    < link  rel = “ icon ”  href = “/ favicon.png ” >
+  
+  
+    < 链路 HREF = “ //fonts.googleapis.com/css?family=Source+Code+Pro ” 相对 = “样式表” 类型 = “文本/ CSS ” >
+  
+  < link  rel = “ stylesheet ”  href = “/ css/style.css ” >
+  
+
+</ head >
+
+< body >
+  < div  id = “ container ” >
+    < div  id = “ wrap ” >
+      < header  id = “ header ” >
+  < div  id = “ banner ” > </ div >
+  < div  id = “ header-outer ”  class = “ outer ” >
+    < div  id = “ header-title ”  class = “ inner ” >
+      < h1  id = “ logo-wrap ” >
+        < 一个 HREF = “ / ”  ID = “标志” > HEXO </ 一 >
+      </ h1 >
+      
+    </ div >
+    < div  id = “ header-inner ”  class = “ inner ” >
+      < nav  id = “ main-nav ” >
+        < 一个 ID = “主NAV肘节” 类 = “ NAV-图标” > </ 一 >
+        
+          < 一 类 = “主NAV-链路”  HREF = “ / ” >主页</ 一 >
+        
+          < 一 类 = “主NAV-链路”  HREF = “ /档案” >档案</ 一 >
+        
+      </ nav >
+      < nav  id = “ sub-nav ” >
+        
+          < 一个 ID = “ NAV-RSS链接” 类 = “ NAV-图标”  HREF = “ /atom.xml ” 标题 = “ RSS频道” > </ 一 >
+        
+        < 一个 ID = “ NAV-搜索BTN ” 类 = “ NAV-图标” 标题 = “搜索” > </ 一 >
+      </ nav >
+      < div  id = “ search-form-wrap ” >
+        < 形式 行动 = “ //google.com/search ” 方法 = “获取” 接收字符集 = “ UTF-8 ” 类 = “搜索表单” > < 输入 类型 = “搜索” 名称 = “ q ” 类 = “ search-form-input “ 占位符 = ”搜索“ > < button  type = ”提交“ class = “ search-form-submit ” > ＆＃xF002; </ button > < input  type = “ hidden ”  name = “ sitesearch ”  value = “ http://yoursite.com ” > </ form >
+      </ div >
+    </ div >
+  </ div >
+</ header >
+      < div  class = “ outer ” >
+        < section  id = “ main ” > < article  id = “ post-hello-world ”  class = “ article article-type-post ”  itemscope  itemprop = “ blogPost ” >
+  < div  class = “ article-meta ” >
+    < 一个 HREF = “ /十分之二千零十七/ 24 /你好世界/ ” 类 = “文章最新” >
+  < time  datetime = “ 2017-10-24T09：59：57.363Z ”  itemprop = “ datePublished ” > 2017-10-24 </ time >
+</ a >
+    
+  </ div >
+  < div  class = “ article-inner ” >
+    
+    
+      < header  class = “ article-header ” >
+        
+  
+    < h1  class = “ article-title ”  itemprop = “ name ” >
+      你好，世界
+    </ h1 >
+  
+
+      </ header >
+    
+    < div  class = “ article-entry ”  itemprop = “ articleBody ” >
+      
+        < p >欢迎< 一个 HREF = “ https://hexo.io/ ” 目标 = “ _blank ” 的rel = “外部” > HEXO </ 一 >！这是你的第一篇文章。检查< 一个 HREF = “ https://hexo.io/docs/ ” 目标 = “ _blank ” 的rel = “外部” >文档</ 一 >的更多信息。如果在使用Hexo时遇到任何问题，可以在< = “ https://hexo.io/docs/troubleshooting.html ”  target = “ _blank ”  rel = “ external ” >疑难解答</ a >或者你可以问我< a  href = “ https://github.com / hexojs / hexo / issues “  target = ” _blank “  rel = ” external “ > GitHub </ a >。</ p >
+< H2  ID = “快速启动” > < 一个 HREF = “＃快速启动” 类 = “ headerlink ” 标题 = “快速启动” > </ 一 >快速启动</ H2 > < H3  ID = “创建-一个-new-post “ > < a  href = ”＃Create-a-new-post “  class = ” headerlink “ title = “创建一个新帖子“ > </ a >创建新帖子</ h3 > < figure  class = ” highlight bash “ > < table > < tr > < td  class = ” gutter “ > < pre > < div  class = ” line “ > 1 < / div > </ pre > </ td > < td  class = “ code ” > < pre > <div  class = “ line”“ > $ hexo new < span  class = ” string “ >”我的新帖子“</ span > </ div > </ pre > </ td > </ tr > </ table > </ figure >
+< p >更多信息：< 一个 HREF = “ https://hexo.io/docs/writing.html ” 目标 = “ _blank ” 的rel = “外部” >书写</ 一 > </ p >
+< H3  ID = “运行服务器” > < 一个 HREF = “＃运行服务器” 类 = “ headerlink ” 标题 = “运行服务器” > </ 一 >运行服务器</ H3 > < 人物 类 = “高亮的bash ” > < table > < tr > < td  class = “ gutter ” > < pre > <div  class = “行“ > 1 </ div > </ pre > </ td > < td  class = ” code “ > < pre > < div  class = ” line “ > $ hexo server </ div > </ pre > </ td > </ tr > </ table > </ figure >
+< p >更多信息：< 一个 HREF = “ https://hexo.io/docs/server.html ” 目标 = “ _blank ” 的rel = “外部” >服务器</ 一 > </ p >
+< H3  ID = “生成静电-文件” > < 一个 HREF = “＃生成静电-文件” 类 = “ headerlink ” 标题 = “生成静态文件” > </ 一 >生成静态文件</ H3 > < 图 class = “ highlight bash ” > < table > < tr > < td  class = “ gutter ” > <pre > < div 类 = “线” > 1 </ DIV > </ 预 > </ TD > < TD  类 = “代码” > < 预 > < DIV  类 = “线” > $ HEXO产生</ DIV > </ 预 > < / td > </ tr > </ table > </ figure >
+< p >更多信息：< 一个 HREF = “ https://hexo.io/docs/generating.html ” 目标 = “ _blank ” 的rel = “外部” >生成</ 一 > </ p >
+< H3  ID = “部署到远程站点” > < 一个 HREF = “＃部署到远程站点” 类 = “ headerlink ” 标题 = “部署到远程站点” > </ 一 >部署到远程站点</ h3 > < figure  class = “ highlight bash ” > < table > < tr > < td  class = “ gutter ” >< pre > <DIV  类 = “线” > 1 </ DIV > </ 预 > </ TD > < TD  类 = “代码” > < 预 > < DIV  类 = “线” > $ HEXO部署</ DIV > </ 预 > </ td > </ tr > </ table > </ figure >
+< p >更多信息：< 一个 HREF = “ https://hexo.io/docs/deployment.html ” 目标 = “ _blank ” 的rel = “外部” >部署</ 一 > </ p >
+
+      
+    </ div >
+    < footer  class = “ article-footer ” >
+      < 一个 数据-URL = “ http://yoursite.com/2017/10/24/hello-world/ ” 数据ID = “ cj95ga22i000020u0dx9mi1m5 ” 类 = “文章股链路” >共享</ 一 >
+      
+      
+    </ footer >
+  </ div >
+  
+    
+  
+</ article >
+
+</ section >
+        
+          < aside  id = “ sidebar ” >
+  
+    
+
+  
+    
+
+  
+    
+  
+    
+  < div  class = “ widget-wrap ” >
+    < h3  class = “ widget-title ” >档案</ h3 >
+    < div  class = “ widget ” >
+      < UL  类 = “归档列表” > < 李 类 = “归档列表项” > < 一 类 = “归档一览链路”  HREF = “ /档案/十分之二千零十七/ ” > 2017年10月</ 一 > </ li > </ ul >
+    </ div >
+  </ div >
+
+
+  
+    
+  < div  class = “ widget-wrap ” >
+    < h3  class = “ widget-title ” >最近的帖子</ h3 >
+    < div  class = “ widget ” >
+      < ul >
+        
+          < li >
+            < 一个 HREF = “ /十分之二千零十七/ 24 /你好世界/ ” >的Hello World </ 一 >
+          </ li >
+        
+      </ ul >
+    </ div >
+  </ div >
+
+  
+</ aside >
+        
+      </ div >
+      < footer  id = “ footer ” >
+  
+  < div  class = “ outer ” >
+    < div  id = “ footer-info ”  class = “ inner ” >
+      ＆复制; 2017年约翰·多伊< BR >
+      由< 一个 HREF = “ http://hexo.io/ ” 目标 = “ _blank ” > HEXO </ 一 >
+    </ div >
+  </ div >
+</ footer >
+    </ div >
+    < nav  id = “ mobile-nav ” >
+  
+    < 一个 HREF = “ / ” 类 = “移动NAV-链路” >主页</ 一 >
+  
+    < 一个 HREF = “ /档案” 类 = “移动NAV-链路” >档案</ 一 >
+  
+</ nav >
+    
+
+< script  src = “ //ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js ” > </ script >
+
+
+  < link  rel = “ stylesheet ”  href = “/ fancybox/jquery.fancybox.css ” >
+  < script  src = “ / fancybox / jquery.fancybox.pack.js ” > < / script >
+
+
+< script  src = “ / js / script.js ” > </ script >
+
+  </ div >
+</ body >
+</ html >
